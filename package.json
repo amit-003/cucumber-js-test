@@ -1,0 +1,15 @@
+{
+	"name": "cucumber-js",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"directories": {
+		"lib": "lib"
+	},
+	"scripts": {
+		"test": "../node_modules/.bin/cucumber-js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
