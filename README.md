@@ -1,15 +1,17 @@
 Cucumber.js
 
+
 Steps:
 
-clone git repository ( $ 'git clone https://github.com/amit-003/cucumber-js-test.git' )
+1. clone git repository ( $ `git clone https://github.com/amit-003/cucumber-js-test.git` )
 
-$ 'cd cucumber-js-test'
+2. $ `cd cucumber-js-test`
 
-run command
+3. run command
 
-$ 'npm install'
+   $ `npm install`
 
 Running unit tests
 
-Run $ 'npm test'
+Run command
+   $ `npm test`
